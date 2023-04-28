@@ -1,0 +1,2 @@
+# blogtest
+REG.BY Blog
